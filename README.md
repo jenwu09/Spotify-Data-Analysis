@@ -1,12 +1,12 @@
 # Spotify-Data-Analysis
-**Project Overview**:
+# Project Overview
 The purpose of this project is to apply data science skills to better undertand what makes music popular on Spotify. 
 This revolves around a dataset of 52,000 songs with metrics ranging from popularity and genre to various audio features like danceability and energy. The goal is to explore what influences a song's popularity and how different genres are characterized by these audio features.
 
-**Dataset**:
+# Dataset
 The dataset includes details for each song such as artist, album, track name, popularity, duration, and audio features like loudness, danceability and energy. 
 
-**Questions being analyzed**:
+# Questions being analyzed
 - Distribution of tempo and danceability
 - Relationship between song duration and popularity
 - Comparison of popularity between explicit and non-explicit songs
